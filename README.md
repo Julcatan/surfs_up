@@ -1,7 +1,7 @@
 
 # surfs_up
 
-This repository includes a Weather Analysis for a surf shop investment 
+This repository includes a climate analysis for a surf shop investment 
 
 Software used:
 Jupyter Notebook
