@@ -5,7 +5,8 @@ Software used:
  -  Python
  -  SQL Lite
  -  sqlAlchemy
-  
+ -  matplotlibs
+ 
 ## Overview of the analysis: 
 
 _The purpose of the analysis is to evaluate if the planned investment for an ice cream shop in Oahu is sustainable year-round. In order to determine this
@@ -32,7 +33,9 @@ we specifically look at temperature data for the months of June and December._
 
   
  
-
+ The potential investor was also concerned if it will rain too much. Therefore I am including an additional analysis showing ...precipitation for June as well as December.
+ 
+ 
 
 
 
@@ -41,7 +44,7 @@ we specifically look at temperature data for the months of June and December._
 
 Summary: 
 
-The temperatures in Oahu are very similar is very similar with average temperatures in the low 70s.
+The temperatures in Oahu are very similar with average temperatures in the low 70s.
 
 
 and is suitable for a surf/ice cream shop.
