@@ -17,11 +17,22 @@ Results:
 
 
 Three major points can be derived from the analysis
-  
+  -
   - The average temperature is very similar in the low 70s , between 71 F in December and 74 F in June
   - The minimum temperature in December with 56 F is 8 degrees lower than the temperature in June with 64  
   - The maximum temperature is 83 in December and 85 in June 
   _Standard Deviation...3.745 in Dec vs 3.257 June_  
+  - the ...Quartile of the temperatures are in the 74 degree range
+
+June:   ![image](https://user-images.githubusercontent.com/91682586/145320193-78792bb1-0c84-4ca8-8124-97800f1beded.png)
+  
+
+December:  ![image](https://user-images.githubusercontent.com/91682586/145319877-5008fe3b-7414-44bb-bb36-a014539b1952.png)
+
+
+
+
+
 
 
 Summary: 
