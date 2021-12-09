@@ -26,15 +26,19 @@ we specifically look at temperature data for the months of June and December._
   December    ![image](https://user-images.githubusercontent.com/91682586/145416215-67098b3e-823c-4801-842b-96e8de5fdaed.png)
 
 ---
-
+ - These 2 histograms show the frequencies and distribution of the temperatures for each month.
+ 
   June        ![image](https://user-images.githubusercontent.com/91682586/145417812-5e059728-611f-4c7a-862e-fd8b05926a1f.png)
     
   December    ![image](https://user-images.githubusercontent.com/91682586/145417866-93045ff6-cbf9-4ea0-8a22-920785136b9f.png)
 
   
  
- The potential investor was also concerned if it will rain too much. Therefore I am including an additional analysis showing ...precipitation for June as well as December.
+ The potential investor was also concerned if it will rain too much. Therefore I am including an additional analysis showing precipitation statistics for June as well as   December.
  
+ June        ![image](https://user-images.githubusercontent.com/91682586/145423227-9b0190b4-0bff-4770-b3ca-39dd1e5c7192.png)
+ 
+ December    ![image](https://user-images.githubusercontent.com/91682586/145423300-95f7448d-73a9-40fc-bca1-4bfb5dbe6e5a.png)
  
 
 
@@ -44,7 +48,7 @@ we specifically look at temperature data for the months of June and December._
 
 Summary: 
 
-The temperatures in Oahu are very similar with average temperatures in the low 70s.
+The temperatures in Oahu are very similar with average temperatures in the low 70s. They are not 
 
 
 and is suitable for a surf/ice cream shop.
