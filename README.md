@@ -1,35 +1,37 @@
 
 # surfs_up
 
-This repository includes a climate analysis to support a decision about an investment in a surf/ ice cream shop. 
-
 Software used:
-Jupyter Notebook
-Python
-SQL Lite
-
+ -  Python
+ -  SQL Lite
+ -  sqlAlchemy
+  
 ## Overview of the analysis: 
 
-_The purpose of the analysis is to evaluate if the planned investment for an ice cream shop in Oahu is sustainable year-round. In order to determine this additional information 
+_The purpose of the analysis is to evaluate if the planned investment for an ice cream shop in Oahu is sustainable year-round. In order to determine this
 we specifically look at temperature data for the months of June and December._
 
 ## Results: 
 
 
-### Three major points can be derived from the analysis
+### Major points derived from the analysis
   
-  - The average temperature is very similar in the low 70s , between 71 F in December and 74 F in June
-  - The minimum temperature in December with 56 F is 8 degrees lower than the temperature in June with 64  
-  - The maximum temperature is 83 in December and 85 in June 
-  - Standard Deviation...3.745 in Dec vs 3.257 June_  
-  - the ...Quartile of the temperatures are in the 74 degree range
+  - The average temperature is 71°F in December and 74°F in June.
+  - The minimum temperature in December with 56°F is 8 degrees lower than the temperature in June with 64°F. The maximum temperature is 2 degrees lower with 83°F in December   versus 85°F in June. 
+  - Only 25% of the temperatures are at or under 69°F for December and 73°F in June. 
+  - 75% of the temperatures are at or above 74°F for December and 77°F in June.
+---
+  June        ![image](https://user-images.githubusercontent.com/91682586/145416385-cb7f2648-c203-47a1-aec9-3487d39531bb.png)
+  December    ![image](https://user-images.githubusercontent.com/91682586/145416215-67098b3e-823c-4801-842b-96e8de5fdaed.png)
+
 ---
 
+  June        ![image](https://user-images.githubusercontent.com/91682586/145417812-5e059728-611f-4c7a-862e-fd8b05926a1f.png)
+    
+  December    ![image](https://user-images.githubusercontent.com/91682586/145417866-93045ff6-cbf9-4ea0-8a22-920785136b9f.png)
 
-
-  June      ![image](https://user-images.githubusercontent.com/91682586/145320193-78792bb1-0c84-4ca8-8124-97800f1beded.png) 
----
-  December  ![image](https://user-images.githubusercontent.com/91682586/145319877-5008fe3b-7414-44bb-bb36-a014539b1952.png)
+  
+ 
 
 
 
@@ -39,7 +41,10 @@ we specifically look at temperature data for the months of June and December._
 
 Summary: 
 
-The climate in Oahu is very similar in June and December and is suitable for a surf/ice cream shop.
+The temperatures in Oahu are very similar is very similar with average temperatures in the low 70s.
+
+
+and is suitable for a surf/ice cream shop.
 The variance in temperatures make it easy to plan. Because this analysis only looks at the temperatures, I would recommend additional analysis of some other data points e.g. 
 
 - precipitation and ....
