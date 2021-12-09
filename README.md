@@ -1,7 +1,7 @@
 
 # surfs_up
 
-This repository includes a climate analysis for an investment in a surf/ ice cream shop. 
+This repository includes a climate analysis to support a decision about an investment in a surf/ ice cream shop. 
 
 Software used:
 Jupyter Notebook
