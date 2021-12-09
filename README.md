@@ -22,46 +22,43 @@ we specifically look at temperature data for the months of June and December._
   - Only 25% of the temperatures are at or under 69°F for December and 73°F in June. 
   - 75% of the temperatures are at or above 74°F for December and 77°F in June.
 ---
-  June        ![image](https://user-images.githubusercontent.com/91682586/145416385-cb7f2648-c203-47a1-aec9-3487d39531bb.png)
-  December    ![image](https://user-images.githubusercontent.com/91682586/145416215-67098b3e-823c-4801-842b-96e8de5fdaed.png)
+  June   
+  
+  ![image](https://user-images.githubusercontent.com/91682586/145416385-cb7f2648-c203-47a1-aec9-3487d39531bb.png)
+  
+  December   
+  
+  ![image](https://user-images.githubusercontent.com/91682586/145416215-67098b3e-823c-4801-842b-96e8de5fdaed.png)
 
 ---
  - These 2 histograms show the frequencies and distribution of the temperatures for each month.
  
-  June        ![image](https://user-images.githubusercontent.com/91682586/145417812-5e059728-611f-4c7a-862e-fd8b05926a1f.png)
+  June      
+  
+  ![image](https://user-images.githubusercontent.com/91682586/145417812-5e059728-611f-4c7a-862e-fd8b05926a1f.png)
     
-  December    ![image](https://user-images.githubusercontent.com/91682586/145417866-93045ff6-cbf9-4ea0-8a22-920785136b9f.png)
+  December   
+  
+  ![image](https://user-images.githubusercontent.com/91682586/145417866-93045ff6-cbf9-4ea0-8a22-920785136b9f.png)
 
+  The histograms show a relatively even distribution with the highest frequency of temperatures in the low 70s.
   
  
  The potential investor was also concerned if it will rain too much. Therefore I am including an additional analysis showing precipitation statistics for June as well as   December.
  
- June        ![image](https://user-images.githubusercontent.com/91682586/145423227-9b0190b4-0bff-4770-b3ca-39dd1e5c7192.png)
+ June        ![image](https://user-images.githubusercontent.com/91682586/145423227-9b0190b4-0bff-4770-b3ca-39dd1e5c7192.png)   ![image](https://user-images.githubusercontent.com/91682586/145479442-f6f1a810-d72c-471a-8664-ea84e53fe5dc.png)
  
- December    ![image](https://user-images.githubusercontent.com/91682586/145423300-95f7448d-73a9-40fc-bca1-4bfb5dbe6e5a.png)
  
+ December    ![image](https://user-images.githubusercontent.com/91682586/145423300-95f7448d-73a9-40fc-bca1-4bfb5dbe6e5a.png)   ![image](https://user-images.githubusercontent.com/91682586/145479359-a1c7a4b8-505d-4c68-aa5e-1dbca14f77d3.png)
 
-
-
-
-
+The histograms show a low overall likelihood of rain with a maximim of precipiation in June of only 4.43 and in December 6.42 respectively. 
 
 Summary: 
 
-The temperatures in Oahu are very similar with average temperatures in the low 70s. They are not 
+The temperatures in Oahu are very similar in both months with average temperatures in the low 70s. They are suitable for a surf & ice cream shop.
+The low variance in temperatures make it easy to plan. 
 
-
-and is suitable for a surf/ice cream shop.
-The variance in temperatures make it easy to plan. Because this analysis only looks at the temperatures, I would recommend additional analysis of some other data points e.g. 
-
-- precipitation and ....
-
-- 
-
-
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-
-
+In addition to the performed query we looked at precipitaion levels in both months and found that they also support a decision to go ahead with the investment. 
 
 
 For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
